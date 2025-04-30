@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2572f404-3add-4ff5-a141-d84cc1a3134b)# EX 34 C program to read a file name from user and create that file and insert student roll numbers in to that file.
+# EX 34 C program to read a file name from user and create that file and insert student roll numbers in to that file.
 ## DATE:30-04-25
 ## AIM:
 To write a C program to read a file name from user and create that file and insert student roll numbers in to that file.
